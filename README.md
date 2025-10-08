@@ -1,7 +1,7 @@
 # SALES-ANALYSIS
 SALES ANALYSIS WITH EXCEL DASHBOARDS
 
-This is our raw data
+This is our raw data set
 <a href="https://github.com/Lindoh95/SALES-ANALYSIS/blob/main/CAPSTONE%20PROJECT.xlsx">  Sales</a>
 <b><br>KPI's Questions</br>
 
