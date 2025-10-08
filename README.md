@@ -8,6 +8,6 @@ SALES ANALYSIS WITH EXCEL DASHBOARDS
 <b><br>KPI's Questions <b></br>
 <br>Which genders buys the most</br>
 <br>which products has more revenues</BR>
-<br>which year makes big revenues/br>
+<br>which year makes big revenues</br>
 
 
