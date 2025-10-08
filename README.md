@@ -15,9 +15,8 @@ This is our raw data
 <br>Sum of Order Quantity</br>
 <br>Revenue by genders</br>
 <br>Monthly revenues</BR>
-<br>which year makes big revenues</br>
 <br>Profit by products</br>
-<br>which year makes big revenues</br>
+
 
 See our insight dashboard for sales
 <br></br>
