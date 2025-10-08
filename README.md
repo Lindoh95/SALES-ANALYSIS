@@ -20,7 +20,8 @@ This is our raw data
 
 See our insight dashboard for sales
 <br></br>
-<a href="https://github.com/Lindoh95/SALES-ANALYSIS/blob/main/SALESDASHBOARD.PNG">SALES DASHBORD<a>
+<a href="https://github.com/Lindoh95/SALES-ANALYSIS/blob/main/SALESDASHBOARD.PNG">SALES DASHBORD<a><br></br>
+Conclusion
 
 
 
