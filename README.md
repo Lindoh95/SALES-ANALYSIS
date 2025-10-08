@@ -5,9 +5,9 @@ SALES ANALYSIS WITH EXCEL DASHBOARDS
 
 <a href="https://github.com/Lindoh95/SALES-ANALYSIS/blob/main/SALESDASHBOARD.PNG">SALES DASHBORD<a>
 
-KPI's Questions 
+<b><br>KPI's Questions <b></br>
 <br>Which genders buys the most</br>
-which products has more revenues
-which year makes big revenues
+<br>which products has more revenues</BR>
+<br>which year makes big revenues/br>
 
 
