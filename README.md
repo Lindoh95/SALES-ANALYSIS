@@ -3,19 +3,31 @@ SALES ANALYSIS WITH EXCEL DASHBOARDS
 
 This is our raw data set
 <a href="https://github.com/Lindoh95/SALES-ANALYSIS/blob/main/CAPSTONE%20PROJECT.xlsx">  Sales</a>
-<b><br>KPI's Questions</br>
+<b><br>Project Overview</br>
 
-<br>Sum of Profit</br>
-<br>Sum of Revenue</br>
-<br>Sum of Unit Cost</br>
-<br>Sum of Cost</br>
-<br>Sum of Profit</br>
-<br>Sum of Revenue</br>
-<br>Sum of Unit Cost</br>
-<br>Sum of Order Quantity</br>
-<br>Revenue by genders</br>
-<br>Monthly revenues</BR>
-<br>Profit by products</br>
+<br
+This project demonstrates how to analyze sales data using Excel dashboards. It includes raw datasets, KPIs, and visualizations that provide insights into revenue, profit, costs, and order quantities. The dashboards are designed to help businesses make data-driven decisions quickly and effectively.</br>
+
+<br>Features
+Interactive Excel dashboards for sales analysis
+
+Key metrics: Revenue, Profit, Unit Cost, Order Quantity
+
+Breakdown of revenue by gender and monthly trends
+
+Profit analysis by product categories
+
+Visual insights for better decision-making</br>
+
+<br>Insights
+Revenue trends across months
+
+Profitability by product lines
+
+Gender-based revenue distribution
+
+Overall KPIs for quick performance trackings</BR>
+
 
 
 See our insight dashboard for sales
